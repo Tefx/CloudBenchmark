@@ -1,0 +1,13 @@
+Fri Feb 14 2014 17:24:55 GMT+0000 (UTC):
+[Error: No VMs found]
+Error: No VMs found
+    at /usr/local/lib/node_modules/azure-cli/lib/commands/vm._js:1576:30
+    at /usr/local/lib/node_modules/azure-cli/lib/commands/vm/vmclient.js:61:9
+    at /usr/local/lib/node_modules/azure-cli/node_modules/async/lib/async.js:113:25
+    at /usr/local/lib/node_modules/azure-cli/node_modules/async/lib/async.js:24:16
+    at /usr/local/lib/node_modules/azure-cli/lib/commands/vm/vmclient.js:56:11
+    at callback_ (/usr/local/lib/node_modules/azure-cli/lib/util/utils.js:182:9)
+    at finalCallback (/usr/local/lib/node_modules/azure-cli/node_modules/azure/lib/services/management/servicemanagementservice.js:1147:7)
+    at /usr/local/lib/node_modules/azure-cli/lib/util/utils.js:242:9
+    at /usr/local/lib/node_modules/azure-cli/node_modules/azure/lib/services/core/serviceclient.js:507:17
+    at /usr/local/lib/node_modules/azure-cli/node_modules/azure/lib/services/core/serviceclient.js:689:11
